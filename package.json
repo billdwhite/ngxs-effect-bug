@@ -27,7 +27,7 @@
     "@ngxs/storage-plugin": "3.6.2",
     "@ngxs/store": "3.6.2",
     "@ngxs/websocket-plugin": "3.6.2",
-    "ngxs-effects": "2.1.0",
+    "ngxs-effects": "2.1.1",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
